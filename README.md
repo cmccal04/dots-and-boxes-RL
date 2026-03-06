@@ -4,6 +4,8 @@
 **By** Cullen McCaleb, Spring 2025
 
 ---
+[Download the PDF Document](/docs/DotsAndBoxesReport.pdf)
+---
 
 ## Overview
 - dotbox.py is a python file that simulates a dots and boxes environment, and 
