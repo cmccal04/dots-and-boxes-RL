@@ -5,20 +5,6 @@
 
 ---
 
-## Dependencies
-- `numpy`  
-- `matplotlib`
-  
----
-
-## Usage
-1. Compile and run the code using:
-```
-   python3 dotbox.py
-```
-
----
-
 ## Overview
 - dotbox.py is a python file that simulates a dots and boxes environment, and 
   uses two Q-learning algorithms to learn to play the game. One uses direct 
@@ -37,4 +23,17 @@
   for each completed box and a +10/-10 reward for winning or losing.
 - Finally, the program visualizes the results using a win rate plot and a table 
   showing the results summary.
+
+---
+
+## Dependencies
+- `numpy`  
+- `matplotlib`
   
+---
+
+## Usage
+1. Compile and run the code using:
+```
+   python3 dotbox.py
+```
