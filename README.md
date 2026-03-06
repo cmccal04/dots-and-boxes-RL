@@ -4,7 +4,7 @@
 **By** Cullen McCaleb, Spring 2025
 
 ---
-[Download the PDF Document](/docs/DotsAndBoxesReport.pdf)
+[Paper](/docs/DotsAndBoxesReport.pdf)
 ---
 
 ## Overview
